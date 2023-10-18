@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">My name is Taseen Jeem. I am a web developer from Bangladesh. I consider myself to be a dedicated developer who enjoys coding and the web platform. Coding has always been a priority of mine since I first started working with computers, but I've just actually done web development since 2021. I appreciate building websites that are well-designed, interactive, and functional.</p>
+<p align="left">My name is Taseen Jeem. I am a web developer from Bangladesh. I consider myself to be a dedicated developer who enjoys coding and the web platform. Coding has always been a priority of mine since I first started working with computers, but I've just actually done web development since 2021. I appreciate building websites that are well-designed, interactive, and functional.</p>
 
 ###
 
