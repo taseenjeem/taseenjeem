@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Taseen Jeem and I'm a Full-Stack Web Developer from Bangladesh</h2>
+<h2 align="center">Hi 👋! This is Taseen Jeem and I'm a Full-Stack Web Developer from Bangladesh</h2>
 
 ###
 
