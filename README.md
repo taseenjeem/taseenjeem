@@ -112,3 +112,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/taseenjeem/taseenjeem/output/snake.svg" alt="Snake animation" />
+
+###
