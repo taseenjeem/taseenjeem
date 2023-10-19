@@ -92,7 +92,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">👀 Profile Views :</h3>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/taseenjeem/count.svg?"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
