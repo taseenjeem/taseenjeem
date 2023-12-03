@@ -6,7 +6,7 @@
 
 ###
 
-<a href="https://app.daily.dev/taseenjeem"><img src="https://api.daily.dev/devcards/0822ffb7f66b4b58b2200bacf0258ce9.png?r=j7p" width="400" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
+<a href="https://app.daily.dev/taseenjeem"><img src="https://api.daily.dev/devcards/0822ffb7f66b4b58b2200bacf0258ce9.png?r=j7p" width="200" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
 
 ###
 
