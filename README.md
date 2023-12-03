@@ -6,12 +6,7 @@
 
 ###
 
-
-
-###
-
 <div align="left">
-  <a align="right" href="https://app.daily.dev/taseenjeem"><img src="https://api.daily.dev/devcards/0822ffb7f66b4b58b2200bacf0258ce9.png?r=j7p" width="200" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -90,6 +85,10 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+ <a align="right" href="https://app.daily.dev/taseenjeem"><img src="https://api.daily.dev/devcards/0822ffb7f66b4b58b2200bacf0258ce9.png?r=j7p" width="200" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
 
 ###
 
