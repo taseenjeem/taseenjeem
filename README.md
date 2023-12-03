@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/PF81vFJ/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d.gif"  />
+<a href="https://app.daily.dev/taseenjeem"><img src="https://api.daily.dev/devcards/0822ffb7f66b4b58b2200bacf0258ce9.png?r=j7p" width="400" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
 
 ###
 
