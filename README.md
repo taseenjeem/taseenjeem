@@ -1,5 +1,5 @@
 <a href="https://www.taseenjeem.com/" target="_blank">
-<img src="https://i.ibb.co/qnpp9Bc/github.jpg" alt="banner"  />
+<img src="https://i.ibb.co/WvHsbbZ/github.png" alt="banner"  />
 </a>
 
 ###
