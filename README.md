@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! This is Taseen Jeem and I'm a Full-Stack Web Developer from Bangladesh</h2>
+<h2 align="center">Full-Stack Web Developer👨🏽‍💻 | MERN Stack and Technology Enthusiast 🚀 | Problem Solver 🧩</h2>
 
 ###
 
