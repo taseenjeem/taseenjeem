@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Full-Stack Web Developer👨🏽‍💻 | MERN Stack and Technology Enthusiast 🚀 | Problem Solver 🧩</h2>
+<h1 align="center">Full-Stack Web Developer👨🏽‍💻 | MERN Stack Enthusiast 🚀 | Problem Solver 🧩</h1>
 
 ###
 
