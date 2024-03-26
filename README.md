@@ -25,10 +25,6 @@ Happy coding! 💻✨</p>
 
 ###
 
- <a align="center" href="https://app.daily.dev/taseenjeem"><img align="center" src="https://api.daily.dev/devcards/v2/dxl3KN6ZNRyv9X3twhx8L.png?r=1eg&type=wide" width="752" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
-
-###
-
 <h2 align="left">⚡Tools and Technologies</h2>
 
 <div align="left">
@@ -90,6 +86,8 @@ Happy coding! 💻✨</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
+
+<a href="https://app.daily.dev/taseenjeem"><img align="right" src="https://api.daily.dev/devcards/v2/dxl3KN6ZNRyv9X3twhx8L.png?r=1eg&type=default" width="356" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
 
 ###
 
