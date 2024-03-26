@@ -25,7 +25,7 @@ Happy coding! 💻✨</p>
 
 ###
 
- <a href="https://app.daily.dev/taseenjeem"><img align="right" src="https://api.daily.dev/devcards/v2/dxl3KN6ZNRyv9X3twhx8L.png?r=1eg&type=default" width="250" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
+ <a href="https://app.daily.dev/taseenjeem"><img src="https://api.daily.dev/devcards/v2/dxl3KN6ZNRyv9X3twhx8L.png?r=1eg&type=wide" width="652" alt="Md. Ta-Seen Fuad Jeem's Dev Card"/></a>
 
 ###
 
