@@ -28,25 +28,25 @@ Happy coding! 💻✨</p>
 <h2 align="left">⚡Tools and Technologies</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
   <img width="24" />
-  <img src="https://www.taseenjeem.com/assets/tech-icons/js-svgrepo-com.svg" height="50" alt="javascript logo"  />
+  <img src="https://www.taseenjeem.com/assets/tech-icons/js-svgrepo-com.svg" height="60" alt="javascript logo"  />
   <img width="24" />
-  <img src="https://www.taseenjeem.com/assets/tech-icons/redux-svgrepo-com.svg" height="50" alt="Redux logo"  />
+  <img src="https://www.taseenjeem.com/assets/tech-icons/redux-svgrepo-com.svg" height="60" alt="Redux logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="24" />
-  <img src="https://storage.taseenjeem.com/assets/taseenjeem/icons/next-js.svg" height="50" alt="Next Js logo"  />
+  <img src="https://storage.taseenjeem.com/assets/taseenjeem/icons/next-js.svg" height="60" alt="Next Js logo"  />
   <img width="24" />
-  <img src="https://www.taseenjeem.com/assets/tech-icons/node-js.svg" height="50" alt="Node Js logo"  />
+  <img src="https://www.taseenjeem.com/assets/tech-icons/node-js.svg" height="60" alt="Node Js logo"  />
   <img width="24" />
-  <img src="https://www.taseenjeem.com/assets/tech-icons/expressjs.svg" height="50" alt="express Js logo"  />
+  <img src="https://www.taseenjeem.com/assets/tech-icons/expressjs.svg" height="60" alt="express Js logo"  />
   <img width="24" />
-  <img src="https://www.taseenjeem.com/assets/tech-icons/mongodb.svg" height="50" alt="mongodb logo"  />
+  <img src="https://www.taseenjeem.com/assets/tech-icons/mongodb.svg" height="60" alt="mongodb logo"  />
   <img width="24" />
 </div>
 
