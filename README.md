@@ -32,8 +32,6 @@ Happy coding! 💻✨</p>
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
-  <img width="24" />
   <img src="https://www.taseenjeem.com/assets/tech-icons/js-svgrepo-com.svg" height="60" alt="javascript logo"  />
   <img width="24" />
   <img src="https://www.taseenjeem.com/assets/tech-icons/redux-svgrepo-com.svg" height="60" alt="Redux logo"  />
