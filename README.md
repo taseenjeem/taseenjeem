@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">👋 Welcome to my GitHub!</h2>
+<h2 align="center">👋 Welcome to my GitHub!</h2>
 
 <p align="left">
 🚀 Full Stack Web Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. Passionate about crafting elegant and efficient solutions to complex problems.
@@ -50,9 +50,7 @@ Happy coding! 💻✨</p>
 
 ###
 
-<h3 align="left">🔗 Stay connected with me :</h3>
-
-###
+<h2 align="center">🔗 Stay connected with me 🔗</h2>
 
 <div align="center">
   <a href="mailto:mdtaseenfuad@gmail.com" target="_blank">
@@ -81,7 +79,7 @@ Happy coding! 💻✨</p>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h2 align="center">🔥 My Stats 🔥</h2>
 
 ###
 
