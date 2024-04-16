@@ -72,13 +72,6 @@ Happy coding! 💻✨</p>
 
 ###
 
-<div align="left">
-  <h3>👀 Profile Views :</h3>
-  <img src="https://profile-counter.glitch.me/taseenjeem/count.svg?"  />
-</div>
-
-###
-
 <h2 align="center">🔥 My Stats 🔥</h2>
 
 ###
