@@ -1,4 +1,4 @@
-<a href="https://www.taseenjeem.com/" target="_blank">
+<a title="Click to open my website" href="https://www.taseenjeem.com/" target="_blank">
 <img src="https://i.ibb.co/WvHsbbZ/github.png" alt="banner"  />
 </a>
 
