@@ -28,27 +28,27 @@ Happy coding! 💻✨</p>
 <h2 align="center">⚡Tools and Technologies⚡</h2>
 
 <div align="center">
-  <img src="/html.png" height="60" alt="html5 logo"  />
+  <img src="/html.svg" height="80" alt="html5 logo"  />
   <img width="24" />
-  <img src="/css.png" height="60" alt="css3 logo"  />
+  <img src="/css.svg" height="80" alt="css3 logo"  />
   <img width="24" />
-  <img src="/js.png" height="60" alt="javascript logo"  />
+  <img src="/js.svg" height="80" alt="javascript logo"  />
   <img width="24" />
-  <img src="/ts.png" height="60" alt="typescript logo"  />
+  <img src="/ts.svg" height="80" alt="typescript logo"  />
   <img width="24" />
-  <img src="/tailwind.png" height="60" alt="tailwind logo"  />
+  <img src="/tailwind.svg" height="80" alt="tailwind logo"  />
   <img width="24" />
-  <img src="/redux.png" height="60" alt="Redux logo"  />
+  <img src="/redux.svg" height="80" alt="Redux logo"  />
   <img width="24" />
-  <img src="/react.png" height="60" alt="react logo"  />
+  <img src="/react.svg" height="80" alt="react logo"  />
   <img width="24" />
-  <img src="/nextjs.svg" height="60" alt="Next Js logo"  />
+  <img src="/nextjs.svg" height="80" alt="Next Js logo"  />
   <img width="24" />
-  <img src="/node.png" height="60" alt="Node Js logo"  />
+  <img src="/node.svg" height="80" alt="Node Js logo"  />
   <img width="24" />
-  <img src="/express.png" height="60" alt="express Js logo"  />
+  <img src="/express.svg" height="80" alt="express Js logo"  />
   <img width="24" />
-  <img src="/mongo.png" height="60" alt="mongodb logo"  />
+  <img src="/mongo.svg" height="80" alt="mongodb logo"  />
   <img width="24" />
 </div>
 
