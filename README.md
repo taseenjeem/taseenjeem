@@ -28,27 +28,27 @@ Happy coding! 💻✨</p>
 <h2 align="center">⚡Tools and Technologies⚡</h2>
 
 <div align="center">
-  <img src="https://i.ibb.co.com/hcnt0st/html.png" height="60" alt="html5 logo"  />
+  <img src="/html.png" height="60" alt="html5 logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/bQZKpgx/css.png" height="60" alt="css3 logo"  />
+  <img src="/css.png" height="60" alt="css3 logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/NS08WSx/js.png" height="60" alt="javascript logo"  />
+  <img src="/js.png" height="60" alt="javascript logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/j5HkNKx/ts.png" height="60" alt="typescript logo"  />
+  <img src="/ts.png" height="60" alt="typescript logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/0sQSr4b/tailwind.png" height="60" alt="tailwind logo"  />
+  <img src="/tailwind.png" height="60" alt="tailwind logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/fQcfss5/redux.png" height="60" alt="Redux logo"  />
+  <img src="/redux.png" height="60" alt="Redux logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/sRTnnMk/react.png" height="60" alt="react logo"  />
+  <img src="/react.png" height="60" alt="react logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/W5vVStv/nextjs.png" height="60" alt="Next Js logo"  />
+  <img src="/nextjs.png" height="60" alt="Next Js logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/PM6qzYF/node.png" height="60" alt="Node Js logo"  />
+  <img src="/node.png" height="60" alt="Node Js logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/pZV05WT/express.png" height="60" alt="express Js logo"  />
+  <img src="/express.png" height="60" alt="express Js logo"  />
   <img width="24" />
-  <img src="https://i.ibb.co.com/k35VypB/mongo.png" height="60" alt="mongodb logo"  />
+  <img src="/mongo.png" height="60" alt="mongodb logo"  />
   <img width="24" />
 </div>
 
