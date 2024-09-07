@@ -42,7 +42,7 @@ Happy coding! 💻✨</p>
   <img width="24" />
   <img src="/react.png" height="60" alt="react logo"  />
   <img width="24" />
-  <img src="/nextjs.png" height="60" alt="Next Js logo"  />
+  <img src="/nextjs.svg" height="60" alt="Next Js logo"  />
   <img width="24" />
   <img src="/node.png" height="60" alt="Node Js logo"  />
   <img width="24" />
