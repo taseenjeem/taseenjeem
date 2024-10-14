@@ -61,7 +61,7 @@ Happy coding! 💻✨</p>
     <img src="/email.svg" height="60" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/taseenfuadjeem" target="_blank">
-    <img src="/fb.svg" height="60" alt="facebook logo"  />
+    <img src="/fb.svg" height="120" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/taseen.jeem/" target="_blank">
     <img src="/ig.svg" height="60" alt="instagram logo"  />
