@@ -20,7 +20,7 @@ Full-Stack Web Developer👨🏽‍💻 | MERN Stack Enthusiast 🚀
 ###
 
 
-<h2 align="center">⚡Tools and Technologies⚡</h2>
+<h2 align="left">⚡Tools and Technologies⚡</h2>
 
 <div align="center">
   <img src="/html.svg" height="90" alt="html5 logo"  />
