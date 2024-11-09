@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h2 align="center">⚡Tools and Technologies⚡</h2>
 
-<div align="center">
+<div align="left">
   <img src="/html.svg" height="90" alt="html5 logo"  />
   <img width="24" />
   <img src="/css.svg" height="90" alt="css3 logo"  />
