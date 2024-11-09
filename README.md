@@ -19,6 +19,8 @@ Full-Stack Web Developer👨🏽‍💻 | MERN Stack Enthusiast 🚀
 
 ###
 
+------------------------------------------------------
+
 <h2 align="center">⚡Tools and Technologies⚡</h2>
 
 <div align="center">
