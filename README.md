@@ -17,10 +17,6 @@ Full-Stack Web Developer👨🏽‍💻 | MERN Stack Enthusiast 🚀
 * 🤝  I'm open to collaborating on frontend projects
 * ⚡  To be honest, I am batman!! Please don't tell anyone 😭🙏🏽
 
-<a href="https://www.x.com/taseenjeem" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/taseenjeem?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ###
 
 <h2 align="center">⚡Tools and Technologies⚡</h2>
